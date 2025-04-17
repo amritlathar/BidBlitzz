@@ -25,8 +25,9 @@ BidBlitzz is an online auction platform where users can participate in bidding, 
 ### 3. Flowchart
 ![Flowchart](images/flowchart.jpg)
 
-### 4. Dark Mode Data Model
+### Dark Mode Data Model
 ![Dark Mode Data Model](images/dark-mode-data-model.jpg)
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React (if applicable)
